@@ -7,13 +7,8 @@ We build delightful apps, powerful tools, and digital experiences with a sharp e
 
 ## 🚀 About Us
 
-Ghostbyte is an independent software studio based in Austria, run by Daniel and Emanuel.  
-We specialize in crafting web and mobile applications with a strong focus on:
-
-- **User-centric design**
-- **Open-source principles**
-- **Cross-platform performance**
-- **Simplicity and speed**
+Ghostbyte is an independent software studio based in Austria, founded by Daniel and Emanuel Hiebeler.  
+We specialize in crafting web and mobile applications with a strong focus on design and usability.
 
 Our projects reflect our passion for clean code, beautiful UI, and accessible tech.
 
