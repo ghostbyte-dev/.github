@@ -1,5 +1,7 @@
 # 👻 Ghostbyte
 
+![Ghostbyte banner](https://github.com/ghostbyte-dev/ghostbyte-website/blob/53ed21675d8306f4c6885ae0653b2805ee5b2e06/assets/ghostbyte_banner.png)
+
 **Creative software solutions for the modern web.**  
 We build delightful apps, powerful tools, and digital experiences with a sharp eye for design and performance.
 
