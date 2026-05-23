@@ -15,18 +15,19 @@ For more information feel free to visit our website [ghostbyte.dev](https://ghos
 Here are a few projects we are currently maintaining:
 
 - **Pixelix**, a Pixelfed client for Android and iOS
-- **Socialfolio**, a profile platform for the Fediverse
 - **FediSea**, a service which provides crawled stats about the fediverse via an open API
+- **Socialfolio**, a page builder to share all your social media account in one place
 
 ## Support
 
 We build and maintain our projects in our free time alongside university and work.
 
 If you want to support our work, you can:
++ Follow our GitHub account
 + Star our repositories
 + Report bugs and suggest improvements
 + Contribute code, translations, or ideas
 + Share our projects with others
 + Sponsor us on GitHub
 
-Every contribution, piece of feedback, and sponsorship helps us continue building and maintaining open-source software ❤️
+Every contribution, feedback, and sponsorship helps us continue building and maintaining open-source software ❤️
