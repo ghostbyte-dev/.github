@@ -2,42 +2,35 @@
 
 ![Ghostbyte banner](https://github.com/ghostbyte-dev/pixelix/blob/c42cbda6ac92b80e3d4d6e8f726ac211c1b02de6/assets/ghostbyte-banner.png)
 
-**Creative software solutions for the modern web.**  
-We build delightful apps, powerful tools, and digital experiences with a sharp eye for design and performance.
+We are Daniel and Emanuel, two developers from Austria currently studying informatics at TU Wien.
+
+Under the name Ghostbyte, we build open-source apps and tools focused on good design, usability, and modern technologies. Most of our projects are things we genuinely want to use ourselves, which is why we care a lot about clean interfaces, performance, and code quality.
+
+A lot of our work revolves around the open web and the Fediverse.
+
+For more information feel free to visit our website [ghostbyte.dev](https://ghostbyte.dev).
 
 ---
 
-## About Us
+## Projects
 
-Ghostbyte is an independent software studio based in Austria, founded by Daniel and Emanuel Hiebeler.  
-We specialize in crafting web and mobile applications with a strong focus on design and usability.
+Here are a few projects we are currently maintaining:
 
-Our projects reflect our passion for clean code, beautiful UI, and accessible tech.
-
-Find more information on our website [ghostbyte.dev](https://ghostbyte.dev).
-
----
-
-## Some of our work
-
-- **[Socialfolio](https://socialfolio.me)**  
-  A profile showcase platform built for the Fediverse and open-source creators.
-
-- **[Pixelix](https://app.pixelix.social)**  
-  A modern Jetpack Compose Pixelfed client for Android and iOS.
-
-- **[Ghostbyte Library](https://library.ghostbyte.dev)**  
-  A curated collection of resources for developers and creatives.
+- **Pixelix**, a Pixelfed client for Android and iOS
+- **Socialfolio**, a profile platform for the Fediverse
+- **FediSea**, a service which provides crawled stats about the fediverse via an open API
 
 ---
 
-## Support & Contribute
+## Support
 
-We believe in building in public.  
-You can support us by:
+We build and maintain our projects in our free time alongside university and work.
 
-- Starring our repositories
-- Reporting bugs or suggesting features
-- Contributing code, translations, or ideas
+If you want to support our work, you can:
++ Star our repositories
++ Report bugs and suggest improvements
++ Contribute code, translations, or ideas
++ Share our projects with others
++ Sponsor us on GitHub
 
-Every bit of feedback helps us grow.
+Every contribution, piece of feedback, and sponsorship helps us continue building and maintaining open-source software ❤️
