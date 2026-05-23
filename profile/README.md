@@ -10,8 +10,6 @@ A lot of our work revolves around the open web and the Fediverse.
 
 For more information feel free to visit our website [ghostbyte.dev](https://ghostbyte.dev).
 
----
-
 ## Projects
 
 Here are a few projects we are currently maintaining:
@@ -19,8 +17,6 @@ Here are a few projects we are currently maintaining:
 - **Pixelix**, a Pixelfed client for Android and iOS
 - **Socialfolio**, a profile platform for the Fediverse
 - **FediSea**, a service which provides crawled stats about the fediverse via an open API
-
----
 
 ## Support
 
